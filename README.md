@@ -19,5 +19,10 @@ Simple and responsive donation page using **Laravel + Tailwind CSS**, created to
 1. Clone repository:
 
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/username/nama-repo.git](https://github.com/superti4r/charity-laravel-12.git
+cd charity-laravel-12
+composer install
+npm install
+cp .env.example .env
+php artisan migrate
+composer run dev
