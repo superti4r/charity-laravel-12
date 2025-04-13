@@ -1,23 +1,20 @@
-# 💙 Charity (Using
+# 💙 Simple Charity (Using Midtrans & Laravel 12)
 
-Halaman donasi sederhana dan responsif menggunakan **Laravel + Tailwind CSS**, dibuat untuk mendukung program sosial. Pengguna dapat dengan mudah mengisi form dan memberikan dukungan melalui donasi.
+Simple and responsive donation page using **Laravel + Tailwind CSS**, created to support social programs. Users can easily fill out the form and provide support through donations.
 
-## ✨ Fitur
+## ✨ Features
 
-- ✅ Form donasi dengan validasi dasar
-- ✅ Responsif dan mobile-friendly
-- ✅ Animasi fade-in yang halus
-- ✅ Footer dengan branding personal
-- ✅ Desain minimalis dan bersih
+- ✅ Simple donation form
+- ✅ Responsive and mobile-friendly
+- ✅ Smooth fade-in animation
+- ✅ Minimalist and clean design
 
-## 📦 Teknologi
+## 📦 Technology
 
-- [Laravel 10+](https://laravel.com)
-- [Tailwind CSS](https://tailwindcss.com)
-- HTML5 & Blade
-- Animasi CSS native
+- [Laravel 12](https://laravel.com)
+- [Tailwind CSS v4](https://tailwindcss.com)
 
-## 🚀 Cara Menjalankan
+## 🚀 How to Run
 
 1. Clone repository:
 
